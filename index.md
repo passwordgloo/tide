@@ -6,7 +6,7 @@ hero:
   name: "听潮文库"
   text: "海潮音入佛耳，薰风句达帝听。"
   tagline: My great project tagline
-    image:
+  image:
     src: /foresee.svg
     alt: 听潮文库
   actions:
