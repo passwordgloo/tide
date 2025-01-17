@@ -5,9 +5,9 @@ layout: home
 hero:
   name: "听潮文库"
   text: "海潮音入佛耳，薰风句达帝听。"
-  tagline: My great project tagline
+  tagline: 测试logo效果
   image:
-    src: /foresee.svg
+    src: /logo.svg
     alt: 听潮文库
   actions:
     - theme: brand

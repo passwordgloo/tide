@@ -11,7 +11,7 @@ export default defineConfig({
   appearance:false,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo:"foresee.svg",
+    logo:"/logo.svg",
     // search: {
     //   provider: 'algolia',
     //   options: {
