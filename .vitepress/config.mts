@@ -8,7 +8,6 @@ export default defineConfig({
   description: "海潮音入佛耳，薰风句达帝听。",
   titleTemplate:":title - 海阔天高",
   lang:"zh-Hans",
-  appearance:false,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo:"/logo.svg",
