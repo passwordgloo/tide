@@ -11,14 +11,14 @@ export default defineConfig({
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo:"/logo.svg",
-    // search: {
-    //   provider: 'algolia',
-    //   options: {
-    //     appId: '...',
-    //     apiKey: '...',
-    //     indexName: '...'
-    //   }
-    // },
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: 'NSM0XR0X8R',
+        apiKey: 'ae911f353c09b506790378bdded11095',
+        indexName: 'Tidedoc'
+      }
+    },
     nav: navbar,
     sidebar: sidebar,
     socialLinks: [

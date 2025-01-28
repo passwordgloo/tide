@@ -1,4 +1,13 @@
 export const sidebar = {
+    '/980/': [
+        {
+            text: '行测',
+            items: [
+                { text: '片段阅读', link: '/980/1' },
+                { text: '语句表达', link: '/980/2' }, 
+                { text: '逻辑填空', link: '/980/3' }
+            ]
+        }],
     '/principle/': [
         {
             text: '马克思主义基本原理',

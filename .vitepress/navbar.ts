@@ -20,5 +20,6 @@ export const navbar =[
           link:'mzt/1',
         }
       ],
-    }
+    },
+    { text: '行测', link: '980/1' },
 ]
